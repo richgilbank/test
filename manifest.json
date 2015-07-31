@@ -1,0 +1,14 @@
+{
+  "name": "Test",
+  "version": "0.0.19",
+  "description": "Test",
+  "devtools_page": "es6-repl.html",
+  "manifest_version": 2,
+  "permissions": [
+    "tabs",
+    "debugger"
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  }
+}

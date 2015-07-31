@@ -1,0 +1,25 @@
+{
+  "name": "Test",
+  "version": "0.0.1",
+  "description": "See code run.",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:richgilbank/Scratch-JS.git"
+  },
+  "author": "Rich Gilbank (@richgilbank)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/richgilbank/Scratch-JS/issues"
+  },
+  "homepage": "https://github.com/richgilbank/Scratch-JS",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "del": "^1.1.1",
+    "gulp": "^3.8.11",
+    "gulp-usemin": "^0.3.11",
+    "gulp-zip": "^2.0.2",
+    "tiny-lr": "^0.1.5",
+    "gulp-stylus": "~0.2.1"
+  }
+}
